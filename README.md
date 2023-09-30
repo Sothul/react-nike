@@ -2,7 +2,7 @@
 
 Build and Deploy a Nike Website with tailwindcss and react
 
-[`Live View`]()
+[`Live View`](https://react-nike-sigma.vercel.app/)
 
 ## Screenshot
 
